@@ -12,7 +12,7 @@ Proceso entrenamiento07
 	
 	uno <- b;
 	dos <- N;
-	si tres <> Verdadero o Falso
+	si tres <> Verdadero 
 		Escribir "El valor h no es una variable lógico";
 	FinSi
 	Escribir "El valor de uno es: ", uno;
