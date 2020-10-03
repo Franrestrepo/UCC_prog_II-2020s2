@@ -26,4 +26,6 @@ Proceso ejercicioAlgoritmo
 	Escribir "El valor de m es: ",m;
 	Escribir "El valor de lo es: ",lo;
 	Escribir "El valor de p es: ",p;
+	
+	//END
 FinProceso
