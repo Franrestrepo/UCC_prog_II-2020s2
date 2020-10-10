@@ -8,11 +8,6 @@ Proceso ejercicio2
 	Escribir "¿La Luna es un satélite de la tierra?: [0]...Falso [1]...Verdadero: ";
 	Leer b;
 	
-	si a <= b
-		s <- Verdadero;
-	SiNo
-		s <- Falso;
-	FinSi
-	
+	s <- a<=b;
 	Escribir "El valor final de s es: ",s;
 FinProceso

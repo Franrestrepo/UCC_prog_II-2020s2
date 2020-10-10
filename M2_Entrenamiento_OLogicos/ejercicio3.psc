@@ -9,11 +9,7 @@ Proceso ejercicio3
 	Escribir "¿La torre Eiffel esta en Australia? [0]...Falso [1]...Verdadero: ";
 	Leer b;
 	
-	si a>b
-		s <- Verdadero;
-	SiNo
-		s <- Falso;
-	FinSi
+	s <- a>b;
 	
 	Escribir "El valor final de la operación es: ",s;
 	
